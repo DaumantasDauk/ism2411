@@ -1,3 +1,6 @@
+# The most suprising thing for me was how lists are sorted, since their order is kinda messy
+# when I was choosing a car - I could have uploaded all the info into a database and used list as a way to sort information
+
 print("---Exercise 1: Build the list ---")
 
 inventory = ["pen","notebook","stapler", "tape","marker"]
