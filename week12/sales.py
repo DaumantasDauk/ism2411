@@ -1,3 +1,8 @@
+#while excel is a bit more instant and interactive, python helps us create files at scale and automate tasks.
+#the tool used in ex8 is very useful for tracking who did what and when, since it can not be faked and records precise time
+
+
+
 #----ex1------
 # download the data
 
